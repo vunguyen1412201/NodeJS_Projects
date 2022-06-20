@@ -1,0 +1,6 @@
+//trình compiler
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
